@@ -1,7 +1,6 @@
 # nginx-vts-exporter
 
-![Docker Repository on Quay](https://quay.io/repository/hnlq715/nginx-vts-exporter/status)
-![Docker Pulls](https://img.shields.io/docker/pulls/sophos/nginx-vts-exporter.svg)
+![Docker Repository on Quay](https://quay.io/repository/stereoru/nginx-vts-exporter/status)
 
 Simple server that scrapes Nginx vts stats and exports them via HTTP for Prometheus consumption
 
@@ -28,7 +27,7 @@ Simple server that scrapes Nginx vts stats and exports them via HTTP for Prometh
 
 ## Download
 
-Binary can be downloaded from [Releases](https://github.com/hnlq715/nginx-vts-exporter/releases) page.
+Binary can be downloaded from [Releases](https://github.com/stereoru/nginx-vts-exporter/releases) page.
 
 ## Compile
 
