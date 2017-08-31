@@ -69,10 +69,10 @@ METRICS_NS | nginx | Prometheus metrics Namespaces
 
 ## Docker Hub Image
 ``` shell
-docker pull sophos/nginx-vts-exporter:latest
+docker pull quay.io/stereoru/nginx-vts-exporter:master
 ```
 It can be used directly instead of having to build the image yourself.
-([Docker Hub sophos/nginx-vts-exporter](https://hub.docker.com/r/sophos/nginx-vts-exporter/))
+([Quay.io repository stereoru/nginx-vts-exporter](https://quay.io/repository/stereoru/nginx-vts-exporter))
 
 ### Docker Build
 
